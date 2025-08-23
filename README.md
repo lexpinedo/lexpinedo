@@ -11,7 +11,7 @@ Projects:
 ------------------------------------------------------------
 Quant Tasks:
 ------------------------------------------------------------
-Skills:
+**Skills:**
 💻 Technical Toolkit
 Python • NumPy • pandas • statsmodels • scikit-learn • SQL • Git • JSON • Power BI • Excel • Statistics
 ------------------------------------------------------------
