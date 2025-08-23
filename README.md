@@ -13,11 +13,11 @@ Quant Tasks:
 ------------------------------------------------------------
 Skills:
 ------------------------------------------------------------
-Recruiter info:
-Start Date: Immediatly
-U.S. Citizen
-Based in New York, New York USA
-Willing to relocate for the right team
+**Recruiter info:**
+- Start Date: Immediatly
+- U.S. Citizen
+- Based in New York, New York USA
+- Willing to relocate for the right team
 
 ## 
 
