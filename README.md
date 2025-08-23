@@ -12,6 +12,8 @@ Projects:
 Quant Tasks:
 ------------------------------------------------------------
 Skills:
+💻 Technical Toolkit
+Python • NumPy • pandas • statsmodels • scikit-learn • SQL • Git • JSON • Power BI • Excel • Statistics
 ------------------------------------------------------------
 **Recruiter info:**
 - Start Date: Immediatly
