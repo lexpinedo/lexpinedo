@@ -1,11 +1,11 @@
-Quantitative Portfolio
+**Quantitative Portfolio**
 
 Showcase of my data projects
 -------------------------------------------------------------
 Achievements: 
-BlackRock Founder Scholarship (<1%)
+**BlackRock Founder Scholarship (<1%)
 Western Regional Honors Research Conference | Selected amongst 75 students to present Venezuela Hyper Inflation Research 
-Kleiner Perkins Fellow Semi-Finalist | Recognized among the top ~5% of applicants nationwide for exceptional technical skills, leadership, and entrepreneurial potential by a leading Silicon Valley venture capital firm.
+Kleiner Perkins Fellow Semi-Finalist | Recognized among the top ~5% of applicants nationwide for exceptional technical skills, leadership, and entrepreneurial potential by a leading Silicon Valley venture capital firm.**
 ------------------------------------------------------------
 Projects:
 ------------------------------------------------------------
