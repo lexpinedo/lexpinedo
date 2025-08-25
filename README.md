@@ -8,6 +8,14 @@ Showcase of my quant projects
 - Kleiner Perkins Fellow Semi-Finalist | Recognized among the top ~5% of applicants nationwide for exceptional technical skills, leadership, and entrepreneurial potential by a leading Silicon Valley venture capital firm.
 ------------------------------------------------------------
 Projects:
+- [**SMA Crossover Strategy**](https://github.com/lexpinedo/sma-crossover-strategy)  
+  Backtested a simple momentum crossover with costs, factor-neutral analysis, and walk-forward validation.
+
+- [**Black–Scholes Option Pricer**](https://github.com/lexpinedo/black-scholes-pricer)  
+  Implemented closed-form pricing by hand, with Greeks, sensitivity plots, and parity validation.
+
+- [**Intraday Microstructure Alpha**](https://github.com/lexpinedo/microstructure-alpha)  
+  Engineered a signed-volume imbalance signal using intraday data and tested predictive power on next-minute returns.
 ------------------------------------------------------------
 Quant Tasks:
 ------------------------------------------------------------
