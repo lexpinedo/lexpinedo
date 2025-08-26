@@ -22,7 +22,7 @@ Python • SQL • NumPy • Statistics • Backtesting • Alpha Research
 
 ## Skills:
 - Languages: Python, SQL  
-- Libraries: NumPy, pandas, statsmodels, scikit-learn  
+- Libraries: NumPy, pandas, statsmodels, scikit-learn, matplotlib.pyplot
 - Tools: Git, Power BI, Excel
 - Statistics
 
