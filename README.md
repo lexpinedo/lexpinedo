@@ -1,5 +1,4 @@
-# Quantitative Portfolio
-
+# Quant Research Portfolio
 
 **Achievements:** 
 - BlackRock Founder Scholarship (<1%)
