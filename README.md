@@ -1,13 +1,13 @@
-[**Quantitative Portfolio**]
+[# Quantitative Portfolio]
 
-Showcase of my quant projects
+## Showcase of my quant projects
 -------------------------------------------------------------
 **Achievements:** 
 - BlackRock Founder Scholarship (<1%)
 - Western Regional Honors Research Conference | Selected amongst 75 students to present Venezuela Hyper Inflation Research 
 - Kleiner Perkins Fellow Semi-Finalist | Recognized among the top ~5% of applicants nationwide for exceptional technical skills, leadership, and entrepreneurial potential by a leading Silicon Valley venture capital firm.
 ------------------------------------------------------------
-Projects:
+## Projects:
 - [**SMA Crossover Strategy**](https://github.com/lexpinedo/sma-crossover-strategy)  
   Backtested a simple momentum crossover with costs, factor-neutral analysis, and walk-forward validation.
 
@@ -18,13 +18,13 @@ Projects:
   Engineered a signed-volume imbalance feature from intraday data. Tested next-minute return predictability and net Sharpe with realistic costs.
 
 ------------------------------------------------------------
-Quant Tasks:
+## Quant Tasks:
 ------------------------------------------------------------
-**Skills:**
-💻 Technical Toolkit
+## Skills:
+💻 Technical Toolkit  
 Python • NumPy • pandas • statsmodels • scikit-learn • SQL • Git • JSON • Power BI • Excel • Statistics
 ------------------------------------------------------------
-**Recruiter info:**
+## Recruiter info:
 - Start Date: Immediatly
 - U.S. Citizen
 - Based in New York, New York USA
