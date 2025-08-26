@@ -21,7 +21,10 @@ Python • SQL • NumPy • Statistics • Backtesting • Alpha Research
 -  Momentum and Reversal Signal Research
 
 ## Skills:
-Python • NumPy • pandas • statsmodels • scikit-learn • SQL • Git • JSON • Power BI • Excel • Statistics
+- Languages: Python, SQL  
+- Libraries: NumPy, pandas, statsmodels, scikit-learn  
+- Tools: Git, Power BI, Excel
+- Statistics
 
 ## Recruiting Information:
 - Start Date: Immediately
