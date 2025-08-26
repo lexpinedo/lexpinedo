@@ -1,4 +1,4 @@
-[# Quantitative Portfolio]
+# Quantitative Portfolio
 
 ## Showcase of my quant projects
 -------------------------------------------------------------
