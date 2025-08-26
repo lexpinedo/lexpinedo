@@ -14,7 +14,7 @@ Projects:
 - [**Black–Scholes Option Pricer**](https://github.com/lexpinedo/black-scholes-pricer)  
   Implemented closed-form pricing by hand, with Greeks, sensitivity plots, and parity validation.
 
-- [**Intraday Microstructure Alpha**](https://github.com/yourname/microstructure-alpha)  
+- [**Intraday Microstructure Alpha**]()  
   Engineered a signed-volume imbalance feature from intraday data. Tested next-minute return predictability and net Sharpe with realistic costs.
 
 ------------------------------------------------------------
