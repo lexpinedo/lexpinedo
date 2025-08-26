@@ -1,6 +1,6 @@
 # Quant Research Portfolio
 Quant Research | Systematic Equities | Ex-BlackRock
-Python • SQL • NumPy • statsmodels • Backtesting • Alpha Research
+Python • SQL • NumPy • Statistics • Backtesting • Alpha Research
 
 **Achievements:** 
 - BlackRock Founder Scholarship (<1%)
