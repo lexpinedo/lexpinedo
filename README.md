@@ -2,6 +2,10 @@
 Quant Research | Systematic Equities | Ex-BlackRock
 Python • SQL • NumPy • Statistics • Backtesting • Alpha Research
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/alexandra-pinedo)
+[![Email](https://img.shields.io/badge/Email-lexxpinedo%40gmail.com-red)](mailto:alexandrap9522@gmail.com)
+
+
 **Achievements:** 
 - BlackRock Founder Scholarship (<1%)
 - Western Regional Honors Research Conference | Selected amongst 75 students to present Venezuela Hyper Inflation Research 
