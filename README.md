@@ -1,4 +1,4 @@
-# Quant Research Portfolio
+# Quant Research Portfolio ![last updated](https://img.shields.io/badge/Last%20Updated-Aug%202025-blue)
 Quant Research | Systematic Equities | Ex-BlackRock
 Python • SQL • NumPy • Statistics • Backtesting • Alpha Research
 
