@@ -20,7 +20,7 @@
 💻 Technical Toolkit  
 Python • NumPy • pandas • statsmodels • scikit-learn • SQL • Git • JSON • Power BI • Excel • Statistics
 
-## Recruiter info:
+## Recruiting Information:
 - Start Date: Immediatly
 - U.S. Citizen
 - Based in New York, New York USA
