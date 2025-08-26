@@ -15,7 +15,7 @@ Python • SQL • NumPy • Statistics • Backtesting • Alpha Research
 - [**SMA Crossover Strategy**](https://github.com/lexpinedo/sma-crossover-strategy)  
   Backtested a simple momentum crossover with costs, factor-neutral analysis, and walk-forward validation.
 
-- [**Black–Scholes Option Pricer**](https://github.com/lexpinedo/BMSPricer)  
+- [**Black–Scholes Option Pricer**](https://github.com/lexpinedo/BSMPricer)  
   Implemented closed-form pricing by hand, with Greeks, sensitivity plots, and parity validation.
 
 - [**Intraday Microstructure Alpha**](https://github.com/lexpinedo/Intraday-Microstructure-Alpha)  
