@@ -22,7 +22,7 @@
 Python • NumPy • pandas • statsmodels • scikit-learn • SQL • Git • JSON • Power BI • Excel • Statistics
 
 ## Recruiting Information:
-- Start Date: Immediatly
+- Start Date: Immediately
 - U.S. Citizen
 - Based in New York, New York USA
 - Willing to relocate for the right team
