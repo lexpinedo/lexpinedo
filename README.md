@@ -19,7 +19,6 @@
 -  Momentum and Reversal Signal Research
 
 ## Skills:
-💻 Technical Toolkit  
 Python • NumPy • pandas • statsmodels • scikit-learn • SQL • Git • JSON • Power BI • Excel • Statistics
 
 ## Recruiting Information:
