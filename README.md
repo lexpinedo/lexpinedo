@@ -17,7 +17,6 @@
 - [**Intraday Microstructure Alpha**](https://github.com/lexpinedo/Intraday-Microstructure-Alpha)  
   Engineered a signed-volume imbalance feature from intraday data. Tested next-minute return predictability and net Sharpe with realistic costs.
 
-------------------------------------------------------------
 ## Quant Tasks:
 ------------------------------------------------------------
 ## Skills:
