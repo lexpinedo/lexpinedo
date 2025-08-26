@@ -1,7 +1,7 @@
 # Quantitative Portfolio
 
 ## Showcase of my quant projects
--------------------------------------------------------------
+
 **Achievements:** 
 - BlackRock Founder Scholarship (<1%)
 - Western Regional Honors Research Conference | Selected amongst 75 students to present Venezuela Hyper Inflation Research 
