@@ -15,7 +15,7 @@ Quant Research | Systematic Equities | Ex-BlackRock | Python • SQL • NumPy �
   Backtested a simple momentum crossover with costs, factor-neutral analysis, and walk-forward validation.
 
 - [**Black–Scholes Option Pricer**](https://github.com/lexpinedo/BSMPricer)  
-  Implemented closed-form pricing by hand, with Greeks, sensitivity plots, and parity validation.
+  Implemented closed-form pricing by hand and parity validation.
 
 - [**Intraday Microstructure Alpha**](https://github.com/lexpinedo/Intraday-Microstructure-Alpha)  
   Engineered a signed-volume imbalance feature from intraday data. Tested next-minute return predictability and net Sharpe with realistic costs.
