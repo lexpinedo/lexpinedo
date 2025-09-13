@@ -21,7 +21,7 @@ Quant Research | Systematic Equities | Ex-BlackRock | Python • SQL • NumPy �
   Engineered a signed-volume imbalance feature from intraday data. Tested next-minute return predictability and net Sharpe with realistic costs.
 
 ## Upcoming Projects:
--  Momentum and Reversal Signal Research (81% complete)
+-  Momentum and Reversal Signal Research (85% complete)
 
 ## Skills:
 - Languages: Python, SQL  
