@@ -1,4 +1,4 @@
-# Quant Research Portfolio | Alexandra Pinedo ![last updated](https://img.shields.io/badge/Last%20Updated-Aug%202025-blue)
+# Quant Research Portfolio | Alexandra Pinedo ![last updated](https://img.shields.io/badge/Last%20Updated-Sept%202025-blue)
 Quant Research | Systematic Equities | Ex-BlackRock | Python • SQL • NumPy • Statistics • Backtesting • Alpha Research
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/alexandra-pinedo)
