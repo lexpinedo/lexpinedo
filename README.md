@@ -29,7 +29,7 @@ Quant Research | Systematic Equities | Ex-BlackRock | SQA Alphathon Finalist | P
 - Languages: Python, SQL  
 - Libraries: NumPy, pandas, statsmodels, scikit-learn, matplotlib.pyplot
 - Tools: Git, Power BI, Excel
-- Statistics
+- Statistics, Probability, Expected Value
 
 ## Recruiting Information:
 - Start Date: Immediately
