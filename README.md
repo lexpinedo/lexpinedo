@@ -5,7 +5,7 @@ Quant Research | Systematic Equities | Ex-BlackRock | SQA Alphathon Finalist | P
 [![Email](https://img.shields.io/badge/Email-alexandrap9522%40gmail.com-red)](mailto:alexandrap9522@gmail.com)
 
 
-**Achievements:** 
+## Achievements:
 - Society of Quantitative Analysts Alphathon 2025 Finalist | International quantitative finance hackathon. This competition aims to develop and evaluate cutting-edge forecasting solutions for financial industry professionals, utilizing the latest mathematical, statistical and machine learning techniques and alternative datasets.
 - Western Regional Honors Research Conference | Selected amongst 75 students to present Venezuela Hyper Inflation Research 
 - Kleiner Perkins Fellow Semi-Finalist | Recognized among the top ~5% of applicants nationwide for exceptional technical skills, leadership, and entrepreneurial potential by a leading Silicon Valley venture capital firm
