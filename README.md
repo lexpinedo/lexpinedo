@@ -35,7 +35,7 @@ Open to Quant Research and Trading roles | Systematic Equities | Ex-BlackRock | 
 - Statistics, Probability, Expected Value
 
 ## Recruiting Information:
-- Start Date: Immediately
+- Start Date: TBD
 - U.S. Citizen
 - Based in New York, New York USA
 - Willing to relocate for the right team
