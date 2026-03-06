@@ -13,6 +13,9 @@ Open to Quant Research and Trading roles | Systematic Equities | Ex-BlackRock | 
 
 ------------------------------------------------------------
 ## Quant Projects:
+- [**LLM-Driven SEC Filing Sentiment Factor**](https://github.com/lexpinedo/sma-crossover-strategy)  
+  Built an LLM-driven sentiment factor from EDGAR SEC filings (10-K) by comparing FinBERT, VADER, and LLM embeddings, evaluating predictive signal strength using IC, R², and monotonicity tests for equity alpha generation.
+  
 - [**SMA Crossover Strategy**](https://github.com/lexpinedo/sma-crossover-strategy)  
   Backtested a simple momentum crossover with costs, factor-neutral analysis, and walk-forward validation.
 
