@@ -1,5 +1,5 @@
 # Quantitative Portfolio | Alexandra Pinedo ![last updated](https://img.shields.io/badge/Last%20Updated-Feb%202026-blue)
-Open to Quant Research and Trading | Systematic Equities | Ex-BlackRock | SQA Alphathon Finalist | Python • SQL
+Open to Quant Research and Trading roles | Systematic Equities | Ex-BlackRock | SQA Alphathon Finalist | Python • SQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/alexandra-pinedo)
 [![Email](https://img.shields.io/badge/Email-alexandrap9522%40gmail.com-red)](mailto:alexandrap9522@gmail.com)
